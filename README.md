@@ -36,6 +36,5 @@ To turn what I learn into real projects, grow as a developer, and build software
 
 Every program is a small step toward that goal.
 
----
 
 *Learning, experimenting, and improving with every line of code.*
